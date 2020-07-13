@@ -12,7 +12,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/anaysic/it"
+	"github.com/analysic/it"
 )
 
 func TestNewExpr(t *testing.T) {
